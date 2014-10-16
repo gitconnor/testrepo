@@ -7,7 +7,6 @@ testrepo
 * first bullet
 * second bullet
 * third bullet
-* 
 
 + bullet using plus
 + bullet using plus
