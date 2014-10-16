@@ -11,3 +11,5 @@ testrepo
 + bullet using plus
 + bullet using plus
 + bullet using plus
+
+*Why* is there a **space** between some of the bullets?
